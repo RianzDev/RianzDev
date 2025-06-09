@@ -2,7 +2,7 @@
 APIs 🚀 Transformando ideias em código eficiente 🔗 
 
 
-[![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riandasilva2@gmail.com)
+
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rianferreiras/)
 [![blog](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]()
