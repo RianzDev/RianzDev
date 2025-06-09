@@ -1,6 +1,6 @@
 ## </> Back-End Developer 💻 C# | .NET | SQL | 
 APIs 🚀 Transformando ideias em código eficiente 🔗 
-rianfe.dev | linkedin.com/in/rianferreiras/
+
 
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riandasilva2@gmail.com)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
